@@ -6,4 +6,17 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Folder Include="Data\DbContext\" />
+    <Folder Include="Data\" />
+    <Folder Include="Identity\" />
+    <Folder Include="Data\Migrations\" />
+    <Folder Include="Data\Configuration\" />
+    <Folder Include="Services\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\RHA.CleanArchitecture.Application\RHA.CleanArchitecture.Application.csproj" />
+  </ItemGroup>
+
 </Project>

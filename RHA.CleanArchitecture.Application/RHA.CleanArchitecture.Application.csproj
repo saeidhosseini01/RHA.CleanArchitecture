@@ -6,4 +6,19 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Folder Include="Common\Models\" />
+    <Folder Include="Common\Behaviours\" />
+    <Folder Include="Common\Interfaces\" />
+    <Folder Include="Common\Exeptions\" />
+    <Folder Include="Common\Mappings\" />
+    <Folder Include="Common\" />
+    <Folder Include="Common\Security\" />
+    <Folder Include="Aggregates\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\RHA.CleanArchitecture.Domain\RHA.CleanArchitecture.Domain.csproj" />
+  </ItemGroup>
+
 </Project>
