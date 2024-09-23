@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RHA.CleanArchitecture.Infra
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RHA.CleanArchitecture.Application", "RHA.CleanArchitecture.Application\RHA.CleanArchitecture.Application.csproj", "{F72C3C9D-FC2D-4B9D-A8CC-16E239A8492D}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Test", "Test", "{6A791FDC-189B-44F7-9DD5-CCE0E5938C7D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
