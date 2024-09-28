@@ -7,12 +7,9 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Data\DbContext\" />
-    <Folder Include="Data\" />
     <Folder Include="Identity\" />
     <Folder Include="Data\Migrations\" />
     <Folder Include="Data\Configuration\" />
-    <Folder Include="Services\" />
   </ItemGroup>
 
   <ItemGroup>
