@@ -14,7 +14,8 @@
     <Folder Include="Common\Mappings\" />
     <Folder Include="Common\" />
     <Folder Include="Common\Security\" />
-    <Folder Include="Aggregates\" />
+    <Folder Include="Attributes\" />
+    <Folder Include="Enum\" />
   </ItemGroup>
 
   <ItemGroup>
