@@ -2,7 +2,7 @@
 
 namespace RHA.CleanArchitecture.Application.Model.User
 {
-    public class UserUpdateModel : BaseModel
+    public class UserUpdateModel 
     {
     }
 }

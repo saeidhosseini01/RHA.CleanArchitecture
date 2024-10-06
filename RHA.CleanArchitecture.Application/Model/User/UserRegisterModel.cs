@@ -2,7 +2,7 @@
 
 namespace RHA.CleanArchitecture.Application.Model.User
 {
-    public class UserRegisterModel:BaseModel
+    public class UserRegisterModel
     {
     }
 }

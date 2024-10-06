@@ -2,7 +2,6 @@
 
 namespace RHA.CleanArchitecture.Application.Model.User
 {
-    public class UserDeleteModel : BaseModel
-    {
-    }
+    public class UserDeleteModel { }
+    
 }
